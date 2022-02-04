@@ -1,0 +1,5 @@
+
+1- Pulsar sobre el archivo Index_1.html para abrir el visor.
+2- A veces puede pasar que no cargue la lista de mapas, para solucionarlo, abrir de nuevo el archivo Index_1.html o 
+   refrescar el navegador tantas veces hasta que en la esquina superior del visor aparezca la lista de desplegable de mapas (problema de libreria).
+3- Se hace necesario una velocidad elevada de red (internet) para una carga rápida de las capas externas.
